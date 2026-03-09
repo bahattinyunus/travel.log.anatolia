@@ -9,6 +9,11 @@
     <strong>🦅 "Seyahat ya Resulallah" diyerek yola çıkanların izinde...</strong>
 </p>
 
+<div align="center">
+  <h3>🌍 SEYAHAT SEVER VİZYONU</h3>
+  <p><em>"Biz, yolların bitmediği, keşfin son bulmadığı bir dünyanın yolcularıyız. Her durak yeni bir hikaye, her şehir yeni bir nefestir. Bu repo, <strong>gerçek bir seyahat severin</strong> dijital hafızasıdır."</em></p>
+</div>
+
 # 🇹🇷 TRAVEL LOG: ANADOLU SEYAHATNAMESİ
 
 > *"Çok yaşayan çok görür, çok gezen daha çok görür."* - Türk Atasözü
@@ -125,6 +130,41 @@ Anadolu'nun dört bir yanındaki ayak izlerimiz (Toplam 23 Nokta):
 | 🏔️ Doğu Anadolu | Ağrı | İshak Paşa Sarayı | Saray / Mimari |
 | 🏔️ Doğu Anadolu | Kars | Ani Harabeleri | Antik Kent |
 | 🏜️ G.Doğu Anadolu | Mardin | Ulu Camii | Tarihi Yapı |
+
+
+## ✅ 81 İl Keşif Durumu (Provinces Checklist)
+**Toplam Ziyaret Edilen İl:** 21/81 (%25.9)
+
+
+| İl | İl | İl |
+|---|---|---|
+| - [ ] Adana | - [ ] Adıyaman | - [ ] Afyonkarahisar |
+| - [ ] Aksaray | - [x] Amasya | - [x] Ankara |
+| - [x] Antalya | - [ ] Ardahan | - [ ] Artvin |
+| - [ ] Aydın | - [x] Ağrı | - [ ] Balıkesir |
+| - [ ] Bartın | - [ ] Batman | - [ ] Bayburt |
+| - [ ] Bilecik | - [ ] Bingöl | - [ ] Bitlis |
+| - [ ] Bolu | - [ ] Burdur | - [ ] Bursa |
+| - [ ] Denizli | - [ ] Diyarbakır | - [ ] Düzce |
+| - [ ] Edirne | - [ ] Elazığ | - [ ] Erzincan |
+| - [ ] Erzurum | - [ ] Eskişehir | - [ ] Gaziantep |
+| - [x] Giresun | - [ ] Gümüşhane | - [ ] Hakkari |
+| - [ ] Hatay | - [ ] Isparta | - [ ] Iğdır |
+| - [ ] Kahramanmaraş | - [ ] Karabük | - [ ] Karaman |
+| - [x] Kars | - [ ] Kastamonu | - [ ] Kayseri |
+| - [ ] Kilis | - [x] Kocaeli | - [x] Konya |
+| - [ ] Kütahya | - [ ] Kırklareli | - [ ] Kırıkkale |
+| - [ ] Kırşehir | - [ ] Malatya | - [ ] Manisa |
+| - [x] Mardin | - [x] Mersin | - [ ] Muğla |
+| - [ ] Muş | - [x] Nevşehir | - [ ] Niğde |
+| - [x] Ordu | - [ ] Osmaniye | - [x] Rize |
+| - [ ] Sakarya | - [x] Samsun | - [ ] Siirt |
+| - [x] Sinop | - [ ] Sivas | - [ ] Tekirdağ |
+| - [ ] Tokat | - [x] Trabzon | - [ ] Tunceli |
+| - [ ] Uşak | - [x] Van | - [ ] Yalova |
+| - [ ] Yozgat | - [ ] Zonguldak | - [x] Çanakkale |
+| - [ ] Çankırı | - [x] Çorum | - [x] İstanbul |
+| - [x] İzmir | - [ ] Şanlıurfa | - [ ] Şırnak |
 
 ## 🧬 Sistem Mimarisi
 *   `01_...07_Regions/`: Ana veri katmanı.

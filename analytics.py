@@ -74,24 +74,24 @@ class TravelLogAnalytics:
 
     def print_dashboard(self, region_data):
         """Prints a high-tech dashboard summary."""
-        print(f"\n{Colors.MAGENTA}╔══════════════════════════════════════════════════════════════╗{Colors.ENDC}")
-        print(f"{Colors.MAGENTA}║                  MISSION STATUS REPORT                       ║{Colors.ENDC}")
-        print(f"{Colors.MAGENTA}╠════════════════════════════════╦═════════════════════════════╣{Colors.ENDC}")
+        print(f"\n{Colors.HEADER}╔══════════════════════════════════════════════════════════════╗{Colors.ENDC}")
+        print(f"{Colors.HEADER}║                  MISSION STATUS REPORT                       ║{Colors.ENDC}")
+        print(f"{Colors.HEADER}╠════════════════════════════════╦═════════════════════════════╣{Colors.ENDC}")
         
         # Stats Row 1
         r_count = str(self.stats['total_regions']).center(5)
         c_count = str(self.stats['total_cities']).center(5)
         l_count = str(self.stats['total_locations']).center(5)
         
-        print(f"{Colors.MAGENTA}║{Colors.ENDC} REGIONS: {Colors.CYAN}{r_count}{Colors.ENDC} {Colors.MAGENTA}│{Colors.ENDC} CITIES: {Colors.CYAN}{c_count}{Colors.ENDC} {Colors.MAGENTA}│{Colors.ENDC} LOCATIONS: {Colors.GREEN}{l_count}{Colors.ENDC} {Colors.MAGENTA}║{Colors.ENDC}")
-        print(f"{Colors.MAGENTA}╠════════════════════════════════╩═════════════════════════════╣{Colors.ENDC}")
+        print(f"{Colors.HEADER}║{Colors.ENDC} REGIONS: {Colors.CYAN}{r_count}{Colors.ENDC} {Colors.HEADER}│{Colors.ENDC} CITIES: {Colors.CYAN}{c_count}{Colors.ENDC} {Colors.HEADER}│{Colors.ENDC} LOCATIONS: {Colors.GREEN}{l_count}{Colors.ENDC} {Colors.HEADER}║{Colors.ENDC}")
+        print(f"{Colors.HEADER}╠════════════════════════════════╩═════════════════════════════╣{Colors.ENDC}")
         
         # Most Active Region
         if region_data:
             best_region = max(region_data, key=lambda x: x[1])
-            print(f"{Colors.MAGENTA}║{Colors.ENDC} HOTSPOT: {Colors.WARNING}{best_region[0]:<20}{Colors.ENDC} ({best_region[1]} Locs)       {Colors.MAGENTA}║{Colors.ENDC}")
+            print(f"{Colors.HEADER}║{Colors.ENDC} HOTSPOT: {Colors.WARNING}{best_region[0]:<20}{Colors.ENDC} ({best_region[1]} Locs)       {Colors.HEADER}║{Colors.ENDC}")
         
-        print(f"{Colors.MAGENTA}╚══════════════════════════════════════════════════════════════╝{Colors.ENDC}")
+        print(f"{Colors.HEADER}╚══════════════════════════════════════════════════════════════╝{Colors.ENDC}")
 
     def run_analysis(self, mock_delay=False):
         """Main analysis loop."""
