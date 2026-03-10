@@ -58,11 +58,11 @@ Bu repo, Anadolu'nun kadim yollarını adımlayan bir **seyyahın dijital seyir 
 Bu seyir defteri rastgele bir turistik gezinin değil, net bir **Seyahat Disiplini**'nin ürünüdür. Seyahatlerimiz, T.C. Gençlik ve Spor Bakanlığı'nın sunduğu **"Seyahatsever"** projesi ekseninde, sırt çantalı bir *dijital göçebe (digital nomad)* mantığıyla kurgulanmıştır:
 
 *   **Süre ve Sınırlar:** Her yaz dönemi, 45 günlük kesintisiz bir rota oluşturulur.
-*   **Konaklama Stratejisi:** Gidilen her ilde, sunulan imkanlar dahilinde **KYK yurtlarına** yerleşilir. Bu, hem ekonomik bir asimetri sağlar hem de yerel öğrenci/gençlik kültürünün içine doğrudan bir dalış imkanı sunar.
+*   **Konaklama Stratejisi (Düşük Bütçeli Lüks):** Gidilen her ilde, **GSB Seyahatsever** projesi kapsamında **KYK yurtlarına** yerleşilir. Seyahatin en büyük maliyet kalemi olan konaklamanın sıfırlanması, kısıtlı bir bütçeyle "uzun süreli ve yüksek kaliteli" bir gezi deneyimi yaşama lüksü sunar. Bu finansal asimetri, bütçenin ulaşım ve yeni deneyimlere (yerel lezzetler, müzeler, derin keşifler) aktarılmasını sağlar.
 *   **5 Gün Kuralı:** Her şehirde tam olarak **5 gün** kalınır. Bu süre, şehri sadece tüketmek için değil, sindirmek için belirlenmiş bir standarttır.
-*   **Yarı Mesai Sistemi (Üretim & Keşif):** Seyahat ederken üretim durmaz. Günün **ilk yarısı**, o şehrin merkezindeki bir devlet/belediye kütüphanesinde çalışarak (kod yazarak, okuyarak, üreterek) geçirilir. Günün **ikinci yarısı** ise sokaklara, tarihi mekanlara ve o şehrin görünmeyen damarlarına karışmaya ayrılır.
+*   **Yarı Mesai Sistemi (Üretim & Keşif):** Seyahat ederken üretim durmaz. Günün **ilk yarısı**, o şehrin merkezindeki bir kütüphanede (İl Halk Kütüphaneleri vb.) dijital üretim yaparak geçirilir. Günün **ikinci yarısı** ise şehrin ruhuna karışmaya ayrılır.
 
-Bu ritm, seyahati sadece para harcanan bir tatil olmaktan çıkarıp, **üretken, ekonomik ve sürdürülebilir bir yaşam tarzına** dönüştürür.
+Bu disiplin, seyahati bir "tüketim" aktivitesinden çıkarıp, **ekonomik, sürdürülebilir ve üretken bir yaşam tarzı** haline getirir.
 
 ---
 
