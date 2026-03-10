@@ -23,11 +23,25 @@
 
 # 🇹🇷 TRAVEL LOG: ANADOLU SEYAHATNAMESİ
 
-> *"Dünya bir kitaptır ve seyahat etmeyenler onun sadece bir sayfasını okur."* — **Aurelius Augustinus (Romalı Filozof)**
-> *"İyi bir gezginin sabit planları ve varmak gibi bir amacı yoktur."* — **Lao Tzu (Çin Filozofu / Taoizm)**
-> *"Yolculuk, önce seni sessizleştirir, sonra da iyi bir hikâye anlatıcısına dönüştürür."* — **İbn Battuta (Gezgin / İslam Alimi)**
-> *"Gerçek keşif yolculuğu yeni manzaralar bulmak değil, yeni gözlerle bakmaktır."* — **Marcel Proust (Fransız Yazar)**
-> *"Gezmek insanı alçakgönüllü yapar. Dünyada ne kadar küçük bir yer kapladığımızı görmemizi sağlar."* — **Gustave Flaubert (Fransız Yazar)**
+<div align="center">
+  
+> *"Dünya bir kitaptır ve seyahat etmeyenler onun sadece bir sayfasını okur."* <br> — **Aurelius Augustinus**
+>
+> *"İyi bir gezginin sabit planları ve varmak gibi bir amacı yoktur."* <br> — **Lao Tzu**
+>
+> *"Yolculuk, önce seni sessizleştirir, sonra da iyi bir hikâye anlatıcısına dönüştürür."* <br> — **İbn Battuta**
+>
+> *"Gerçek keşif yolculuğu yeni manzaralar bulmak değil, yeni gözlerle bakmaktır."* <br> — **Marcel Proust**
+>
+> *"Her şeyden önce gezgin olunmalı; dünya ancak o zaman gerçekten hissedilir."* <br> — **Mevlana Celaleddin-i Rumi**
+>
+> *"Kıyıyı gözden kaybetmeye cesaret edemeyenler, yeni okyanuslar keşfedemezler."* <br> — **Andre Gide**
+>
+> *"Yollar, sadece ayakların değil, zihnin de özgürleştiği patikalardır."* <br> — **Friedrich Nietzsche**
+>
+> *"Gezgin, vardığı yerdeki her taşı bir anı, her insanı bir öğretmen gibi selamlar."* <br> — **Hint Özdeyişi**
+
+</div>
 
 ## 📜 Dijital Seyahatname Manifestosu
 
