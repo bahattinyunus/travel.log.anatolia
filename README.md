@@ -27,30 +27,13 @@
 
 ## 📜 Dijital Seyahatname Manifestosu
 
-> *"Her adım, toprağın hafızasını okumak ve kendi içine dönmektir."*
+Bu repo, Anadolu'nun kadim yollarını adımlayan bir **seyyahın dijital seyir defteridir.**  Amacımız sadece "nereleri gördüğümüzü" kaydetmek değil; o coğrafyanın tarihini, kültürünü ve ruhumuza kattığı evrensel farkındalığı kaleme almaktır.
 
-### 1. Amaç: Keşif ve Tefekkür
-Bir gece ansızın yola düşen seyyahlar misali, yola çıkmak sadece bedeni değil zihni ve kalbi de hareket ettirmektir. Anadolu'nun kadim taşlarına, vadilerine, dağlarına dokunan rüzgarın sadece tenimizde değil, dijital hafızada da esmesini istiyoruz. Gördüğümüz her menzil, doğanın bize sunduğu bir derstir. Bu repo, **unutuşa karşı açılmış dijital bir seyir defteridir.**
-
-### 2. Derin Belgeleme (Çok Kültürlü Keşif)
-Süzegeçe yapılan "check-in"ler değil, toprağın katmanlarındaki tüm yaşanmışlıklara saygı duyan bir keşif bizim işimiz.
-*   **Sıradan Turist**: "Buradaydım." der.
-*   **Hakiki Seyyah**: "Burası tarihte neydi? Bu taşları kimler yonttu, bu rüzgar kimlerin şarkısını fısıldıyor ve ben bu serüvende kendime dair ne buldum?" diye sorar.
-Veri, sadece bilgi değil; bağlamdır, kültürdür, evrensel tecrübedir.
-
-### 3. Kaynaşma ve Açık Kaynak Miras
-Bilgi, paylaştıkça çoğalır. Gezi notlarımız, rotalarımız ve keşiflerimiz; insanlığın ortak malıdır. Bu repo, ufku arayan gelecek nesillere bırakılmış **açık bir mektuptur.**
+*   **Derinlik:** Yüzeysel turizmden ziyade, gidilen her yerin tarihsel bağlamını, toprağın ve taşın hikayesini anlamak. 
+*   **İçsel Yolculuk:** Doğaya, asırlık kültürlere ve farklı yaşanmışlıklara aynı saygıyla yaklaşarak, her seyahati içsel bir tefekküre dönüştürmek.
+*   **Açık Miras:** Edindiğimiz edinimleri, rotaları ve notları yollara sevdalı diğer yolcularla "açık kaynak" olarak paylaşmak.
 
 > *"Gördüğün her dağ, içinden geçmen gereken yeni bir hikayedir."*
-
-### 4. Yavaş Seyahat, Hızlı Teknoloji
-Ayaklarımız toprağa basarken yavaşlamayı, manayı idrak etmeyi; teknolojiyi kullanırken ise hızlanmayı seçiyoruz. Doğayı ve tarihi izlerken içsel (analog), onu tüm dünyayla paylaşırken dijitaliz.
-
-### 5. Seyyahın Manifestosu
-*   **Göze değil derinliğe ve anlama odaklanmaya,**
-*   **Gittiğim yerlerdeki her kültüre, tarihi dokuya ve doğaya aynı saygıyla yaklaşmaya,**
-*   **Her vadinin ardında bir yaşanmışlık, her viranede zamanın evrensel bir öğretisi yattığını bilerek yürümeye,**
-*   **Dünyanın her köşesinde doğanın ve estetiğin muazzam döngüsünü idrak etmeye ant içerim.**
 
 ---
 
