@@ -45,7 +45,13 @@ Yunus'un *"Gelin tanış olalım"* düsturuyla, bilgi paylaştıkça çoğalır.
 > *"Her dem yeniden doğarız, bizden kim usanası."* — **Yunus Emre**
 
 ### 4. Yavaş Seyahat, Hızlı Teknoloji
-Ayaklarımız toprağa basarken yavaşlamayı, manayı idrak etmeyi; teknolojiyi kullanırken ise hızlanmayı seçiyoruz. Doğayı izlerken analog, onu kaydederken dijitaliz. tüm rotaları Folium ile gerçek bir HTML dünya haritasına `travel_map.html` döşüyor.
+Ayaklarımız toprağa basarken yavaşlamayı, manayı idrak etmeyi; teknolojiyi kullanırken ise hızlanmayı seçiyoruz. Doğayı izlerken analog, onu kaydederken dijitaliz.
+
+### 5. Dervişin Yemini (Traveler's Oath)
+*   **Göze değil gönle inanmaya,**
+*   **Gittiğim yerlerde iz bırakmak yerine, o yerin bende iz bırakmasına izin vermeye,**
+*   **Her dağın ardında bir sır, her viranede bir hazine yattığını bilerek yürümeye,**
+*   **Gördüğüm her güzellikte O'nun sanatını zikretmeye ant içerim.**
 
 ---
 
@@ -117,12 +123,25 @@ Anadolu'nun dört bir yanında eşiğine yüz sürdüğümüz, tevhidin ve muhab
 **🏜️ G.Doğu Anadolu Bölgesi (0/9)**
 ❌ Adıyaman • ❌ Batman • ❌ Diyarbakır • ❌ Gaziantep • ❌ Kilis • ❌ Mardin • ❌ Siirt • ❌ Şanlıurfa • ❌ Şırnak
 
-## 🧬 Sistem Mimarisi
-*   `01_...07_Regions/`: Ana veri katmanı.
-*   `analytics.py`: Veri madenciliği ve raporlama motoru (CLI).
-*   `tests/`: Sistem bütünlüğü testleri.
-*   `_Sablon/`: Standart veri giriş şablonları.
-*   `.github/`: CI/CD otomasyon protokolleri.
+## 🧬 Manevi ve Teknik Mimari (System Architecture)
+Bu seyir defteri, hem ruhi hem de dijital bir temele oturtulmuştur. Teknik altyapı, manevi vizyona hizmet edecek şekilde tasarlanmıştır:
+
+### 🗄️ Veri Mimarisi (Zâhir)
+*   `[01-07]_Regions/`: Anadolu'nun 7 nefesi. Verinin fiziksel olarak depolandığı ana klasörler.
+*   `analytics.py` ( Quantum Dashboard ): Bütün gezilen menzilleri anlık tarayan, saniye saniye tefekkür grafikleri çizen analitik kalbi.
+*   `cli.py` ( Dergah-ı Seyahat vPRO ): Seyyahın ana komuta merkezi. Tüm girişler ve harita güncellemeleri bu spiritual arayüzden yönetilir.
+*   `map_generator.py`: Koordinatları ve ruhanî notları interaktif bir **Folium HTML haritasına** mühürleyen haritacı.
+*   `.github/workflows`: Seyyah uyurken dahi, depoya düşen her yeni menzili otomatik olarak analiz edip haritayı güncelleyen görünmez hizmetkarlar (CI/CD Otomasyonu).
+*   `_Sablon/`: Her menzile aynı edeple girmek için hazırlanmış sâde veri şablonları.
+
+### 🧭 7 Bölgenin Bâtıni Anlamı
+*   **Marmara**: *Tohum ve Cihan.* Bir devletin tohumunun atıldığı, üç kıtaya gölge salan çınarın feyzi.
+*   **Ege**: *Taşın Sırrı.* Antik dünyanın tanrılarından, Tek Olan'a uzanan yürüyüş. Suyun kayayı sabırla oyması.
+*   **Akdeniz**: *Sıcaklık ve Liman.* Torosların heybetiyle medeniyetleri sinesine çeken kadim sükûnet.
+*   **İç Anadolu**: *Bozkırın Kalbi.* Dışarıdan kurak görünen ama bağrında aşıkların, velilerin, dervişlerin pınarlarını saklayan tevazu yurdu.
+*   **Karadeniz**: *Celâl ve Cemâl.* Hırçın dalgaların celali ile yemyeşil yaylaların cemalinin kucaklaştığı, insanın kendi nefsiyle mücadelesinin resmi.
+*   **Doğu Anadolu**: *Dağların Heybeti.* Soğukta pişen ruhların, yükseklerde aradığı mutlak hakikat.
+*   **Güneydoğu Anadolu**: *Mezopotamya'nın Ninnisi.* İnsanlığın beşiği. Toprağın taşa, taşın efsaneye dönüştüğü, medeniyetlerin nefes aldığı ilk sabah.
 
 ## 🤝 Katkıda Bulunma (Contributing)
 Bu proje açık kaynaklı bir mirastır. Lütfen `CONTRIBUTING.md` dosyasını inceleyin.
