@@ -39,6 +39,19 @@ Bu repo, Anadolu'nun kadim yollarını adımlayan bir **seyyahın dijital seyir 
 
 ---
 
+## 🎒 Seyahat Metodolojisi: "Yarı Göçebe, Tam Seyyah"
+
+Bu seyir defteri rastgele bir turistik gezinin değil, net bir **Seyahat Disiplini**'nin ürünüdür. Seyahatlerimiz, T.C. Gençlik ve Spor Bakanlığı'nın sunduğu **"Seyahatsever"** projesi ekseninde, sırt çantalı bir *dijital göçebe (digital nomad)* mantığıyla kurgulanmıştır:
+
+*   **Süre ve Sınırlar:** Her yaz dönemi, 45 günlük kesintisiz bir rota oluşturulur.
+*   **Konaklama Stratejisi:** Gidilen her ilde, sunulan imkanlar dahilinde **KYK yurtlarına** yerleşilir. Bu, hem ekonomik bir asimetri sağlar hem de yerel öğrenci/gençlik kültürünün içine doğrudan bir dalış imkanı sunar.
+*   **5 Gün Kuralı:** Her şehirde tam olarak **5 gün** kalınır. Bu süre, şehri sadece tüketmek için değil, sindirmek için belirlenmiş bir standarttır.
+*   **Yarı Mesai Sistemi (Üretim & Keşif):** Seyahat ederken üretim durmaz. Günün **ilk yarısı**, o şehrin merkezindeki bir devlet/belediye kütüphanesinde çalışarak (kod yazarak, okuyarak, üreterek) geçirilir. Günün **ikinci yarısı** ise sokaklara, tarihi mekanlara ve o şehrin görünmeyen damarlarına karışmaya ayrılır.
+
+Bu ritm, seyahati sadece para harcanan bir tatil olmaktan çıkarıp, **üretken, ekonomik ve sürdürülebilir bir yaşam tarzına** dönüştürür.
+
+---
+
 ## 🛠️ Kurulum (Quick Start)
 
 Bu efsanevi ağı bilgisayarınızda çalıştırmak için:
