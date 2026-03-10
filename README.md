@@ -23,7 +23,11 @@
 
 # 🇹🇷 TRAVEL LOG: ANADOLU SEYAHATNAMESİ
 
-> *"Yolculuk, bizi kendimize getiren en güzel rüzgardır."*
+> *"Dünya bir kitaptır ve seyahat etmeyenler onun sadece bir sayfasını okur."* — **Aurelius Augustinus (Romalı Filozof)**
+> *"İyi bir gezginin sabit planları ve varmak gibi bir amacı yoktur."* — **Lao Tzu (Çin Filozofu / Taoizm)**
+> *"Yolculuk, önce seni sessizleştirir, sonra da iyi bir hikâye anlatıcısına dönüştürür."* — **İbn Battuta (Gezgin / İslam Alimi)**
+> *"Gerçek keşif yolculuğu yeni manzaralar bulmak değil, yeni gözlerle bakmaktır."* — **Marcel Proust (Fransız Yazar)**
+> *"Gezmek insanı alçakgönüllü yapar. Dünyada ne kadar küçük bir yer kapladığımızı görmemizi sağlar."* — **Gustave Flaubert (Fransız Yazar)**
 
 ## 📜 Dijital Seyahatname Manifestosu
 
@@ -32,8 +36,6 @@ Bu repo, Anadolu'nun kadim yollarını adımlayan bir **seyyahın dijital seyir 
 *   **Derinlik:** Yüzeysel turizmden ziyade, gidilen her yerin tarihsel bağlamını, toprağın ve taşın hikayesini anlamak. 
 *   **İçsel Yolculuk:** Doğaya, asırlık kültürlere ve farklı yaşanmışlıklara aynı saygıyla yaklaşarak, her seyahati içsel bir tefekküre dönüştürmek.
 *   **Açık Miras:** Edindiğimiz edinimleri, rotaları ve notları yollara sevdalı diğer yolcularla "açık kaynak" olarak paylaşmak.
-
-> *"Gördüğün her dağ, içinden geçmen gereken yeni bir hikayedir."*
 
 ---
 
@@ -72,7 +74,7 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 *   **🌾 Bozkırın Dingin Ruhu (İç Anadolu):** Konya'da Celaleddin Rumi'nin felsefe ve hoşgörü ocağından geçerek; Ankara'nın Cumhuriyet'in temellerini atan vakur duruşunu hissetmeye...
 *   **🌊 Antik Kodların Fısıltısı (Akdeniz & Ege):** Antalya'nın kadim taşlarında asırların geçiciliğini okumaktan; Denizli'nin şifalı doğası ve tarihi dokusuyla iç içe geçmeye...
 
-> *"Gitmek sadece bir bedenin yer değiştirmesi değil, zihnin de yeni ufuklara açılmasıdır."*
+> *"Bütün yolculukların gizli bir amacı vardır ve yolcunun bundan haberi bile yoktur."* — **Martin Buber (Yahudi Düşünür)**
 
 ---
 
