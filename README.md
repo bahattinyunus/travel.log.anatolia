@@ -81,25 +81,25 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 
 ## ✅ 81 İl Keşif Haritası
 
-**🏆 Genel İlerleme:** %16.0 (13 / 81 İl)
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+**🏆 Genel İlerleme:** %23.4 (19 / 81 İl)
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 > *Sürücü koltuğunda bizzat geçilen ve anı biriktirilen eşsiz rotalar...*
 
 **🏰 Marmara Bölgesi (3/11)**
 ❌ Balıkesir • ❌ Bilecik • ✅ **Bursa** • ❌ Edirne • ✅ **Kocaeli** • ❌ Kırklareli • ❌ Sakarya • ❌ Tekirdağ • ❌ Yalova • ❌ Çanakkale • ✅ **İstanbul**
 
-**🌊 Ege Bölgesi (1/8)**
-❌ Afyonkarahisar • ❌ Aydın • ✅ **Denizli** • ❌ Kütahya • ❌ Manisa • ❌ Muğla • ❌ Uşak • ❌ İzmir
+**🌊 Ege Bölgesi (2/8)**
+❌ Afyonkarahisar • ❌ Aydın • ✅ **Denizli** • ❌ Kütahya • ❌ Manisa • ✅ **Muğla** • ❌ Uşak • ❌ İzmir
 
-**☀️ Akdeniz Bölgesi (1/8)**
-❌ Adana • ✅ **Antalya** • ❌ Burdur • ❌ Hatay • ❌ Isparta • ❌ Kahramanmaraş • ❌ Mersin • ❌ Osmaniye
+**☀️ Akdeniz Bölgesi (2/8)**
+❌ Adana • ✅ **Antalya** • ❌ Burdur • ❌ Hatay • ❌ Isparta • ❌ Kahramanmaraş • ✅ **Mersin** • ❌ Osmaniye
 
-**🌾 İç Anadolu Bölgesi (2/13)**
-❌ Aksaray • ✅ **Ankara** • ❌ Eskişehir • ❌ Karaman • ❌ Kayseri • ✅ **Konya** • ❌ Kırıkkale • ❌ Kırşehir • ❌ Nevşehir • ❌ Niğde • ❌ Sivas • ❌ Yozgat • ❌ Çankırı
+**🌾 İç Anadolu Bölgesi (4/13)**
+✅ **Aksaray** • ✅ **Ankara** • ❌ Eskişehir • ❌ Karaman • ❌ Kayseri • ✅ **Konya** • ❌ Kırıkkale • ❌ Kırşehir • ✅ **Nevşehir** • ❌ Niğde • ❌ Sivas • ❌ Yozgat • ❌ Çankırı
 
-**🌲 Karadeniz Bölgesi (6/18)**
-✅ **Amasya** • ❌ Artvin • ❌ Bartın • ❌ Bayburt • ❌ Bolu • ❌ Düzce • ✅ **Giresun** • ❌ Gümüşhane • ❌ Karabük • ❌ Kastamonu • ✅ **Ordu** • ❌ Rize • ✅ **Samsun** • ✅ **Sinop** • ❌ Tokat • ❌ Trabzon • ❌ Zonguldak • ✅ **Çorum**
+**🌲 Karadeniz Bölgesi (8/18)**
+✅ **Amasya** • ❌ Artvin • ❌ Bartın • ❌ Bayburt • ❌ Bolu • ❌ Düzce • ✅ **Giresun** • ❌ Gümüşhane • ❌ Karabük • ❌ Kastamonu • ✅ **Ordu** • ✅ **Rize** • ✅ **Samsun** • ✅ **Sinop** • ❌ Tokat • ✅ **Trabzon** • ❌ Zonguldak • ✅ **Çorum**
 
 **🏔️ Doğu Anadolu Bölgesi (0/14)**
 ❌ Ardahan • ❌ Ağrı • ❌ Bingöl • ❌ Bitlis • ❌ Elazığ • ❌ Erzincan • ❌ Erzurum • ❌ Hakkari • ❌ Iğdır • ❌ Kars • ❌ Malatya • ❌ Muş • ❌ Tunceli • ❌ Van
