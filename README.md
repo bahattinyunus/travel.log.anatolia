@@ -1,6 +1,5 @@
 ﻿<p align="center">
-    <!-- Replace banner with a sleek high-tech map or generic travel banner from Unsplash -->
-    <img src="https://images.unsplash.com/photo-1524850011238-e3d235c7d4c9?q=80&w=2064&auto=format&fit=crop" width="100%" height="300" style="object-fit: cover; border-radius: 10px;">
+    <img src="assets/banner.png" width="100%" height="300" style="object-fit: cover; border-radius: 10px;">
 </p>
 
 <p align="center">
