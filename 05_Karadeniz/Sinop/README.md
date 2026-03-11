@@ -1,5 +1,7 @@
 # 📍 Sinop - Seyahat ve Tefekkür Notları
 
+![Sinop Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "En karanlık zindan kalın dört duvar arası ve demir parmaklıklar değil, insanın kendi kafasında ördüğü sınırlardır."
 > "Hırçın Karadeniz ile huzurlu limanın buluştuğu, deniz kokulu yalnızlığıyla baş başa kalan filozof yarımada."

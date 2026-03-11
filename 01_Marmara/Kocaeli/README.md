@@ -1,5 +1,7 @@
 # 📍 Kocaeli - Seyahat ve Tefekkür Notları
 
+![Kocaeli Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Emeğin teriyle işlediği demir pas tutmaz; yorgunluk, yeni bir inşanın umut kıvılcımıdır."
 > "Fabrika bacalarından tüten isli umutlarla, bitinya krallığından kalma mirasın beraber yeşerdiği üretim diyarı."

@@ -1,5 +1,7 @@
 # 📍 Amasya - Seyahat ve Tefekkür Notları
 
+![Amasya Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Kayaya kazınan en büyük iz kralların gücü değil, vadiden usulca akan suların getirdiği yaşamdır."
 > "Nehrin ikiye böldüğü, Ferhat'ın gölgesiyle dağların şarkısının rüzgarda birbirine karıştığı elma kokulu vadi."

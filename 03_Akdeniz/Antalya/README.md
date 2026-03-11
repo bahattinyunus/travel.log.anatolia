@@ -1,5 +1,7 @@
 # 📍 Antalya - Seyahat ve Tefekkür Notları
 
+![Antalya Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Sonsuz maviliğin ufku, geçmişi derinliklerinde hatırlar ancak daima doğacak yeni güne daha büyük umutla bakar."
 > "Kayalıklarına gürültüyle çarpıp geri çekilen suların, asırların mirasını şefkatle yıkadığı sıcak Akdeniz cenneti."

@@ -1,5 +1,7 @@
 # 📍 Bursa - Seyahat ve Tefekkür Notları
 
+![Bursa Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Dağın yüceliği sadece zirvesindeki karlardan değil, eteklerindeki çınarlara verdiği can suyundan gelir."
 > "Suyun sesine karışan ulu çınar yapraklarının, bir imparatorluğun doğuşuna beşiklik ettiği yeşil başkent."

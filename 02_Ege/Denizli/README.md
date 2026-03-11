@@ -1,5 +1,7 @@
 # 📍 Denizli - Seyahat ve Tefekkür Notları
 
+![Denizli Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Sabırla süzülen küçük ısrarlı su damlaları, asırlar içinde en sert ve karanlık kayaları bile bembeyaz bir pamuk tarlasına döndürür."
 > "Yeraltından fokurdayarak fışkıran sıcağın sanata, antik zamanların ve gladyatörlerin ise derin bir sessizliğe dönüştüğü o eşsiz coğrafya."

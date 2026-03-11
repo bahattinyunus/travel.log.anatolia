@@ -1,5 +1,7 @@
 # 📍 Istanbul - Seyahat ve Tefekkür Notları
 
+![Istanbul Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "İstanbul bir ayna gibidir; ona yüzünü dönen, zamanın ve tarihin kalbinde kendi yansımasını görür."
 > "İmparatorlukların ebediyete karıştığı, taşın ve denizin şiir yazdığı yedi tepeli masal."

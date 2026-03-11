@@ -136,6 +136,11 @@ def enrich_visited():
                 file_path = os.path.join(region, folder, "README.md")
                 
                 content = f"# 📍 {clean_city} - Seyahat ve Tefekkür Notları\n\n"
+                
+                banner_path = os.path.join(region, folder, "banner.jpg")
+                if os.path.exists(banner_path):
+                    content += f"![{clean_city} Manzarası](banner.jpg)\n\n"
+                    
                 content += f"## 📜 Şehrin Ruhu\n> \"{details['hikmet']}\"\n"
                 content += f"> {details['quote']}\n\n"
                 content += f"### 🌍 Şehrin Dokusu ve Hatırası\n{details['description']}\n\n"
