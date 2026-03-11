@@ -10,6 +10,14 @@ Denizin kıyısında, köprülerin ağzında, demirin ve ateşin şekillendiği 
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 Çarkların, çekiçlerin ve koca fabrikaların sesi, aslında insan aklının ve emeğinin birer senfonisidir. Hiçbir şey emeksiz şekillenmez, demir bile önce ateşe sabırla dayanmalıdır.
 
+### ⛺ Konaklama ve Bütçe Stratejisi
+- **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
+- **Ulaşım Optimizasyonu:** Bir önceki ilden rotaya devam edilerek yol masrafı minimize edilmiştir.
+
+### 💻 Yarı Göçebe Mesaisi (Upskilling)
+- **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
+- **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
+
 ### ✨ Keşfedilesi Duraklar
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
 - [ ] **Sekapark**

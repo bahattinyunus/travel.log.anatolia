@@ -10,6 +10,14 @@ Uludağ'ın eteklerine yaslanmış, yeşiliyle ve suyuyla nefes alan asil şehir
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 Ulu bir çınarın altında oturup dinlenmek, kök salmanın ve sabrın gücünü öğretir. Bursa, ne kadar büyürse büyüsün, o ilk toprağa düşen tohumun tevazusunu hep koruması gerektiğini fısıldar.
 
+### ⛺ Konaklama ve Bütçe Stratejisi
+- **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
+- **Ulaşım Optimizasyonu:** Bir önceki ilden rotaya devam edilerek yol masrafı minimize edilmiştir.
+
+### 💻 Yarı Göçebe Mesaisi (Upskilling)
+- **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
+- **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
+
 ### ✨ Keşfedilesi Duraklar
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
 - [ ] **Ulu Cami**

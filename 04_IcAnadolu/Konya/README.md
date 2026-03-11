@@ -10,6 +10,14 @@
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 Konya'da rüzgârı dinlemek, insanın kendi gürültüsünden kaçıp sükunetini bulması gibidir. Burada göğe uzanan sadece minareler değil; sevgiyle, estetikle ve tevazuyla yükselen bir kültürün kökleridir.
 
+### ⛺ Konaklama ve Bütçe Stratejisi
+- **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
+- **Ulaşım Optimizasyonu:** Bir önceki ilden rotaya devam edilerek yol masrafı minimize edilmiştir.
+
+### 💻 Yarı Göçebe Mesaisi (Upskilling)
+- **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
+- **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
+
 ### ✨ Keşfedilesi Duraklar
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
 - [ ] **Mevlana Müzesi**

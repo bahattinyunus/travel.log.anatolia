@@ -32,16 +32,21 @@ class TravelLogAnalytics:
             return None
 
         data = {"cities": 0, "locations": 0}
-        for city in os.listdir(region_name):
-            city_path = os.path.join(region_name, city)
-            if os.path.isdir(city_path):
-                data["cities"] += 1
-                location_count = 0
-                for loc in os.listdir(city_path):
-                    loc_path = os.path.join(city_path, loc)
-                    if os.path.isdir(loc_path):
-                        location_count += 1
-                data["locations"] += location_count
+        try:
+            for city in os.listdir(region_name):
+                city_path = os.path.join(region_name, city)
+                if os.path.isdir(city_path):
+                    data["cities"] += 1
+                    location_count = 0
+                    for loc in os.listdir(city_path):
+                        loc_path = os.path.join(city_path, loc)
+                        if os.path.isdir(loc_path):
+                            location_count += 1
+                    data["locations"] += location_count
+        except Exception as e:
+            # Silently handle unreadable or empty subdirectories
+            pass
+            
         return data
 
     def print_dashboard(self, region_data):
@@ -51,6 +56,11 @@ class TravelLogAnalytics:
         l_count = str(self.stats['total_locations'])
         
         dashboard_content = (
+            "[bold cyan]           _    ____  ____   ___  [/bold cyan]\n"
+            "[bold cyan]     __  _| |_ |  _ \|  _ \ / _ \ [/bold cyan]\n"
+            "[bold cyan]     \ \/ /   \| |_) | |_) | | | |[/bold cyan]\n"
+            "[bold cyan]      \  /| |_) |  __/|  _ <| |_| |[/bold cyan]\n"
+            "[bold cyan]       \/ |____/|_|   |_| \_\\\\___/ [/bold cyan]\n\n"
             f"[cyan]REGIONS:[/cyan] [bold white]{r_count}[/bold white] │ "
             f"[cyan]CITIES:[/cyan] [bold white]{c_count}[/bold white] │ "
             f"[green]LOCATIONS:[/green] [bold white]{l_count}[/bold white]\n"

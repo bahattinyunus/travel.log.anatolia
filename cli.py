@@ -169,10 +169,74 @@ class TravelCLI:
                 self.analytics.run_analysis()
                 Prompt.ask("\n[bold yellow][MENÜYE DÖNMEK İÇİN ENTER'A BAS][/bold yellow]")
             elif choice == "4":
-                console.print("[bold cyan]>> Arama özelliği henüz vPRO sürümünde geliştiriliyor...[/bold cyan]")
-                time.sleep(1)
+                keyword = Prompt.ask("[bold green]yolcu@seyahat:~[/bold green] Aranacak Kelimeyi Girin")
+                if not keyword:
+                    continue
+                
+                console.print(f"\n[bold cyan]>>> Vadi ve tepelerde '{keyword}' izi sürülüyor... <<<[/bold cyan]")
+                
+                found_results = []
+                for root, dirs, files in os.walk("."):
+                    if "_Sablon" in root or ".git" in root or ".github" in root or "assets" in root:
+                        continue
+                    for file in files:
+                        if file.endswith(".md"):
+                            filepath = os.path.join(root, file)
+                            try:
+                                with open(filepath, "r", encoding="utf-8") as f:
+                                    lines = f.readlines()
+                                    for idx, line in enumerate(lines):
+                                        if keyword.lower() in line.lower():
+                                            snippet = line.strip()
+                                            if len(snippet) > 60:
+                                                snippet = snippet[:57] + "..."
+                                            found_results.append((filepath, idx + 1, snippet))
+                            except Exception as e:
+                                pass
+                
+                if not found_results:
+                    console.print("[bold yellow]>> UYARI: Bellekte herhangi bir iz bulunamadı.[/bold yellow]")
+                else:
+                    search_table = Table(show_header=True, header_style="bold magenta")
+                    search_table.add_column("Dosya", style="dim", width=40)
+                    search_table.add_column("Satır", justify="right", style="bold blue", width=6)
+                    search_table.add_column("Cümle", style="italic cyan")
+                    
+                    for res in found_results:
+                        # Clean filepath for display (remove ./)
+                        disp_path = res[0].replace(".\\", "").replace("./", "")
+                        search_table.add_row(disp_path, str(res[1]), res[2])
+                    
+                    console.print("\n")
+                    console.print(search_table)
+                    console.print(f"\n[bold green]>> Toplam {len(found_results)} eşleşme bulundu.[/bold green]")
+                Prompt.ask("\n[bold yellow][MENÜYE DÖNMEK İÇİN ENTER'A BAS][/bold yellow]")
+
             elif choice == "5":
-                console.print("[bold cyan]>> Verileri dışarı aktarım yapılıyor...[/bold cyan]")
+                export_file = f"export_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+                console.print(f"[bold cyan]>> Seyahat verileri {export_file} dosyasına derleniyor...[/bold cyan]")
+                
+                export_data = {"regions": {}}
+                
+                for region in self.analytics.REGIONS:
+                    if os.path.exists(region):
+                        export_data["regions"][region] = []
+                        for city in os.listdir(region):
+                            city_path = os.path.join(region, city)
+                            if os.path.isdir(city_path):
+                                city_details = {"city": city, "locations": []}
+                                for loc in os.listdir(city_path):
+                                    loc_path = os.path.join(city_path, loc)
+                                    if os.path.isdir(loc_path):
+                                        city_details["locations"].append(loc)
+                                export_data["regions"][region].append(city_details)
+                
+                try:
+                    with open(export_file, "w", encoding="utf-8") as f:
+                        json.dump(export_data, f, ensure_ascii=False, indent=4)
+                    console.print(f"[bold green]>> Veriler başarıyla aktarıldı: {export_file}[/bold green]")
+                except Exception as e:
+                    console.print(f"[bold red]>> Aktarım sırasında hata oluştu: {e}[/bold red]")
                 time.sleep(1)
             elif choice == "6":
                 console.print("[bold green]>> Sistem Kapatıldı. İyi yolculuklar.[/bold green]")

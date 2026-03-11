@@ -10,6 +10,14 @@ Boztepe'den bakıldığında ayakların atında uzanan muazzam manzaranın şehr
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 Yüksek bir tepeden o uçsuz bucaksız denize ve yeşile bakmak, insanın dünyanın ne kadar devasa, kendisinin ise ne kadar narin bir zerreden ibaret olduğunu anlaması için yeterlidir.
 
+### ⛺ Konaklama ve Bütçe Stratejisi
+- **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
+- **Ulaşım Optimizasyonu:** Bir önceki ilden rotaya devam edilerek yol masrafı minimize edilmiştir.
+
+### 💻 Yarı Göçebe Mesaisi (Upskilling)
+- **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
+- **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
+
 ### ✨ Keşfedilesi Duraklar
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
 - [ ] **Boztepe**

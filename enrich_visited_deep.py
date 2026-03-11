@@ -127,6 +127,12 @@ def enrich_visited():
                 content += f"> {details['quote']}\n\n"
                 content += f"### 🌍 Şehrin Dokusu ve Hatırası\n{details['description']}\n\n"
                 content += f"### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)\n{details['sufi_notes']}\n\n"
+                content += "### ⛺ Konaklama ve Bütçe Stratejisi\n"
+                content += "- **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.\n"
+                content += "- **Ulaşım Optimizasyonu:** Bir önceki ilden rotaya devam edilerek yol masrafı minimize edilmiştir.\n\n"
+                content += "### 💻 Yarı Göçebe Mesaisi (Upskilling)\n"
+                content += "- **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.\n"
+                content += "- **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.\n\n"
                 content += "### ✨ Keşfedilesi Duraklar\nBu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:\n"
                 
                 for loc in details['landmarks']:

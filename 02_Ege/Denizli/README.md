@@ -10,6 +10,14 @@ Pamuk gibi görünen travertenlerin bembeyaz şefkati ve Hierapolis'in o büyül
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 Travertenleri oluşturan o damlalar bize 'damlaya damlaya göl olur' değil; 'damlaya damlaya mucizeler doğar' der. Her büyük güzelliğin ardında asırlık bir sabır ve yavaş ama tükenmez bir gayret yatar.
 
+### ⛺ Konaklama ve Bütçe Stratejisi
+- **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
+- **Ulaşım Optimizasyonu:** Bir önceki ilden rotaya devam edilerek yol masrafı minimize edilmiştir.
+
+### 💻 Yarı Göçebe Mesaisi (Upskilling)
+- **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
+- **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
+
 ### ✨ Keşfedilesi Duraklar
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
 - [ ] **Pamukkale Travertenleri**

@@ -8,6 +8,14 @@
 *   **Hava Durumu:** ☀️/☁️/🌧️
 *   **Kategori:** Antik Kent / Doğa / Müzeler / Şehir Dokusu
 
+## ⛺ Konaklama ve Bütçe Stratejisi
+*   **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
+*   **Ulaşım Optimizasyonu:** Bir önceki ilden rotaya devam edilerek yol masrafı minimize edilmiştir.
+
+## 💻 Yarı Göçebe Mesaisi (Upskilling)
+*   **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
+*   **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
+
 ## 🏺 Tarihçe ve Bağlam
 *(Buranın tarihi önemi nedir? Kimler gelmiş geçmiş? Wikipedia bilgisi değil, damıtılmış bilgi.)*
 

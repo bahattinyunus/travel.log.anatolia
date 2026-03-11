@@ -10,6 +10,14 @@ Gölgelerin ve dinginliğin şehri. Anadolu'nun en kuzey ucu, dalgaların duvarl
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 Tarihi cezaevinin ürpertici havası ve soğuk duvarları, özgürlüğün değerini; dışarıdaki uçsuz bucaksız deniz ise insanın içindeki sonsuzluk tutkusunu temsil eder.
 
+### ⛺ Konaklama ve Bütçe Stratejisi
+- **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
+- **Ulaşım Optimizasyonu:** Bir önceki ilden rotaya devam edilerek yol masrafı minimize edilmiştir.
+
+### 💻 Yarı Göçebe Mesaisi (Upskilling)
+- **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
+- **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
+
 ### ✨ Keşfedilesi Duraklar
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
 - [ ] **Tarihi Sinop Cezaevi**

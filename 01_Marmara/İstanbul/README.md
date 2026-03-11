@@ -10,6 +10,14 @@ Dünyanın gözbebeği, asırlık payitaht. Topraklarında barındırdığı med
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 İstanbul'un sokaklarında kaybolmak, aslında kendini bulmanın bir yoludur. Buradaki her kalıntı bize zamanın ne kadar hızlı ve acımasız aktığını; ancak yaşanmışlıkların, sanatın ve estetiğin asırlarca kalplere nasıl dokunduğunu hatırlatır.
 
+### ⛺ Konaklama ve Bütçe Stratejisi
+- **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
+- **Ulaşım Optimizasyonu:** Bir önceki ilden rotaya devam edilerek yol masrafı minimize edilmiştir.
+
+### 💻 Yarı Göçebe Mesaisi (Upskilling)
+- **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
+- **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
+
 ### ✨ Keşfedilesi Duraklar
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
 - [ ] **Ayasofya**
